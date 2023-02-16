@@ -1,4 +1,4 @@
-# CSharp Professional IJuniour. Polymorphysm
+# CSharp Professional IJuniour. Polymorphysm (Rollback)
 Homework on polymorphism. (One of the tasks of the CSharp Professional course from the IJuniour School)
 
 Task description:\
