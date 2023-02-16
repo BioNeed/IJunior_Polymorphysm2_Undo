@@ -1,4 +1,4 @@
-﻿namespace Task_Polymorphysm2_UndoOperations
+﻿namespace Task_Polymorphysm2_Undo
 {
     public abstract class AccountOperation : Operation
     {
