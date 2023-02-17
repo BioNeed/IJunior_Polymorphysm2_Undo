@@ -1,5 +1,5 @@
-# CSharp Professional IJuniour. Polymorphysm (Rollback)
-Homework on polymorphism. (One of the tasks of the CSharp Professional course from the IJuniour School)
+# CSharp Professional IJunior. Polymorphysm (Rollback)
+Homework on polymorphism. (One of the tasks of the CSharp Professional course from the IJunior School)
 
 Task description:\
 Сделайте консольную программу, через которую можно запускать команды. Например:
